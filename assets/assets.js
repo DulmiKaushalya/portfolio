@@ -100,10 +100,9 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Web development', description: 'I specialize in building responsive and high-performing websites using modern technologies like React, Node.js, Java, and MySQL. I focus on delivering seamless, user-friendly, and visually appealing digital experiences optimized for all devices.', link: '' },
+    { icon: assets.mobile_icon, title: 'Mobile app', description: 'I design intuitive and efficient mobile applications with a strong focus on user experience, functionality, and scalability. Using Android Studio, Kotlin, and Java, I create high-quality solutions tailored to meet business objectives and user needs.', link: '' },
+    { icon: assets.ui_icon, title: 'UI/UX design', description: 'I design engaging and user-centric interfaces for web and mobile applications, focusing on aesthetics, accessibility, and usability. Using tools like Figma and Material-UI, I craft visually appealing designs that enhance user satisfaction.', link: '' },
 ]
 
 export const infoList = [
