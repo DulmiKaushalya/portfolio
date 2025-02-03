@@ -35,6 +35,7 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import Link from 'next/link';
 
 export const assets = {
     user_image,
@@ -78,24 +79,28 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
+        title: 'MERN project',
         description: 'Web Design',
         bgImage: '/work-1.png',
+        repoLink:'https://github.com/DulmiKaushalya/Sobha_Plantation',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
-        bgImage: '/work-2.png',
-    },
-    {
-        title: 'Photography site',
+        title: 'HTML CSS JS project',
         description: 'Web Design',
+        bgImage: '/work-2.png',
+        repoLink:'https://github.com/DulmiKaushalya/Public-Train-Reservation-project',
+    },
+    {
+        title: 'TASK APP',
+        description: 'Mobile App',
         bgImage: '/work-3.png',
+        repoLink:'https://github.com/DulmiKaushalya/TaskApp',
     },
     {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
+        repoLink:'https://www.figma.com/design/L5ZGXUqUwAkbwF3jeHiZnC/Untitled?node-id=0-1&p=f&t=BdnmxYaPAHrdRba4-0',
     },
 ]
 
