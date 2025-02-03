@@ -14,7 +14,7 @@ export default function Home() {
     <About/>
     <Services/>
     <Work/>
-    <Contact />
+    <Contact/>
     </>
   );
 }
